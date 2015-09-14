@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="en">
+    <head>
+
+    	<meta charset="utf-8" />
+    	<meta name="author" content="RaidenSuzuki" />
+    	<meta name="keywords" content="awesomeness, new, released" />
+    	<meta name="viewport" content="width-1024" />
+    <title>Google</title>
+    	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> 
+    </head>
+<body>
+	<div class="container-fluid">
+		<div class="row">
+			<nav>
+				<div class="navi"><button type="button" class="btn"><strong><a href="https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.com/%3Fgfe_rd%3Dcr%26ei%3DIaTuVf6wNeP98wf64bPQCQ%26gws_rd%3Dcr%26fg%3D1">Sign In</a></strong></button>
+					</div>
+				<div class="navi"><img src="https://cdn.ablebits.com/_img-blog/sync-google-outlook/apps-launcher-icon.png"</img></div>
+				<div class="navi">Images</div>
+				<div class="navi"><a href="www.gmail.com">Gmail</a></div>
+			</nav>
+	</div>
+<div class="main">
+    <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png">
+    <br>
+    <form>
+      <input type="text"></input>
+      <br>
+      <button class="btn btn-default">Google Search</button>
+      <button class="btn btn-default">I'm Feeling Lucky</button>
+    </form>
+  </div>
+ <footer>
+    <div class="links">
+      <div class="links-left">Advertising</div>
+      <div class="links-left">Business</div>
+      <div class="links-left">About</div>
+      <div class="links-right">Use Google.co.jp</div>
+      <div class="links-right">Settings</div>
+      <div class="links-right">Terms</div>
+      <div class="links-right">Privacy</div> 
+      
+    </div>
+  </footer>
+
+
+
+</body>
+</html>
